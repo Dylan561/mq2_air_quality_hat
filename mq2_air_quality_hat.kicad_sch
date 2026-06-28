@@ -1509,7 +1509,7 @@
 				)
 			)
 		)
-		(property "Value" "PULL_UP 1k - 10k"
+		(property "Value" "PULL_UP - 4.7k"
 			(at 186.69 97.79 90)
 			(effects
 				(font
@@ -1892,7 +1892,7 @@
 				)
 			)
 		)
-		(property "Value" "PULL_UP 1k - 10k"
+		(property "Value" "PULL_UP - 4.7k"
 			(at 185.42 87.63 90)
 			(effects
 				(font
