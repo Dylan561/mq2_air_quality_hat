@@ -50,6 +50,16 @@ Format per entry:
 **Problems hit:**
 
 ---
+
+## 2026-06-29 — Added footprints for components
+
+**What:** more of a draft because i just guessed the sizes.
+
+**Why:** didn't have time so i will confirm tomorrow
+
+**Problems hit:**
+
+
 <!--
 TEMPLATE — copy this block for each new entry:
 
