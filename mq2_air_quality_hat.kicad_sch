@@ -721,6 +721,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "A\n"
+		(exclude_from_sim no)
+		(at 269.494 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "21da3f19-32f9-4b30-9206-c749812fdb41")
+	)
+	(text "MQ-2 Air Quality Sensor Hat for Raspberry Pi Zero 2 W"
+		(exclude_from_sim no)
+		(at 214.63 189.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "31a811ad-69a4-4ef7-97b3-87cb148799f6")
+	)
 	(junction
 		(at 88.9 67.31)
 		(diameter 0)
