@@ -59,7 +59,17 @@ Format per entry:
 
 **Problems hit:**
 
+---
 
+## 2026-07-01 — added 40 pin GPIO for Raspberry Pi
+
+**What:** Added the GPIO headers to the schematic. Not sure if i need the wires actually connected to the headers in the schematic in order for that to carry over to the PCB but I will find out soon I suppose
+
+**Why:** So the components actually connect to pins on the Raspberry Pi.
+
+**Problems hit:** I'm sure there will be some.
+
+---
 <!--
 TEMPLATE — copy this block for each new entry:
 
